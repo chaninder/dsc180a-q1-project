@@ -33,3 +33,17 @@ In order to run the code in this notebook, you must install the following depend
 - os
 - random
 - collections.defaultdict
+
+
+## Vision Transformer Model
+
+- ### Dependencies:
+  - **json**: Included in the Python standard library.
+  - **PIL (Pillow)**: Install with `pip install Pillow`.
+  - **torch**: Install with `pip install torch`.
+  - **torchvision**: Install with `pip install torchvision`.
+  - **pytorch_pretrained_vit**: Install with `pip install pytorch-pretrained-vit`.
+  - **cv2 (OpenCV)**: Install with `pip install opencv-python`.
+  - **tensorflow**: Install with `pip install tensorflow`.
+  - **numpy**: Install with `pip install numpy`.
+  - **matplotlib**: Install with `pip install matplotlib`.
