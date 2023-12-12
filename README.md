@@ -39,6 +39,8 @@ Run the corresponding notebook on Google Colab. Download the dataset [here](http
 
 ## Vision Transformer Model
 
+In order to run the code in this notebook, you must install the following dependencies:
+
 - ### Dependencies:
   - **json**: Included in the Python standard library.
   - **PIL (Pillow)**: Install with `pip install Pillow`.
