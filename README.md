@@ -34,6 +34,8 @@ In order to run the code in this notebook, you must install the following depend
 - random
 - collections.defaultdict
 
+Run the corresponding notebook on Google Colab. Download the dataset [here](https://paperswithcode.com/dataset/fer2013) and upload the data to the google drive associated with your colab environment. Edit the file paths to match your system settings. Run the cells and you will be able to reproduce the results.
+
 
 ## Vision Transformer Model
 
