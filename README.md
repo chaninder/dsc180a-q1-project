@@ -51,6 +51,8 @@ In order to run the code in this notebook, you must install the following depend
   - **tensorflow**: Install with `pip install tensorflow`.
   - **numpy**: Install with `pip install numpy`.
   - **matplotlib**: Install with `pip install matplotlib`.
+ 
+Replacing train_path = '/Users/varundinesh/Downloads/archive (3)/train/' with file path of downloaded dataset from [here](https://paperswithcode.com/dataset/fer2013)
 
 ## Neural Network Model
 
