@@ -49,3 +49,31 @@ Run the corresponding notebook on Google Colab. Download the dataset [here](http
   - **tensorflow**: Install with `pip install tensorflow`.
   - **numpy**: Install with `pip install numpy`.
   - **matplotlib**: Install with `pip install matplotlib`.
+
+## Neural Network Model
+
+In order to run the code in this notebook, you must install the following dependencies:
+
+### Dependencies:
+- Pandas (pandas)
+- NumPy (numpy)
+- OS (os)
+- Matplotlib (matplotlib)
+
+### Specific Scikit-Learn Modules:
+- sklearn.metrics.confusion_matrix
+
+### Specific MLxtend Modules:
+- mlxtend.plotting.plot_confusion_matrix
+
+### Specific Keras Modules:
+- keras.models (from Keras)
+- keras.layers.Dense
+- keras.layers.Dropout
+- keras.layers.Flatten
+- keras.layers.Conv2D
+- keras.layers.MaxPool2D
+- keras.optimizers.RMSprop
+- keras.optimizers.Adam
+- keras.utils.to_categorical
+
